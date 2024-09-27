@@ -380,6 +380,7 @@ f-secure.com###article-sidebar
 fablesofaesop.com###prvcypop_372
 failory.com###magnify-widget-container
 fairygodboss.com##.fixedBottom
+fandom.com##.page__right-rail
 fanucamerica.com###myBtn
 fark.com##.new_to_fark_p
 fark.com##.top_right_container
