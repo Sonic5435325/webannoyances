@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Social Filters
-! Checksum: lfahBYda3zhJaVOFQHcudg
-! Last Modified: 2025-01-27 08:20 UTC
+! Checksum: 6Sxv82CjHvA6xMUewBj5Ng
+! Last Modified: 2025-03-31 08:20 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for social networking & sharing - Remove third party social media share sections, icons & other cosmetic elements.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -258,7 +258,6 @@ craftsmanship.net##.foobar-social
 crainsnewyork.com###follow-us-links
 crash.net##.follow-title, .follow-block
 creativedestructionmedia.com##.penci-social-share-footer.penci-social-buttons
-crimerussia.com##.entry__bottom-blck--socials, .soc-links
 crosscut.com##.socialshare-wrapper
 crunchbase.com###ss-sticky-bar, .herald-soc-nav, .ss-facebook-color, .ss-linkedin-color, .ss-twitter-color
 crunchify.com###crunchy-sharing-float
@@ -470,8 +469,6 @@ greenbuildingadvisor.com###follow-us-vert, .toolbox_links
 greencarreports.com,motorauthority.com##.social-v
 grist.org##.lf-share__link--fb.lf-share__link
 groupninemedia.com##.brand-container-social
-grownmenstuff.com##.td-post-sharing-style1, .td-post-sharing-visible, .td-social-facebook, .td-social-pinterest, .td-social-reddit, .td-social-sharing-button, .td-social-twitter
-grownmenstuff.com,igeeksblog.com##.td-post-sharing
 grubstreet.com,nymag.com,thecut.com,vulture.com##.connect, .connect-list, .follow-list, .share-link
 gsmarena.com##.sharrre.social-share
 guidepatterns.com###itfbppl_overlay
@@ -514,6 +511,7 @@ ibtimes.*###article-left-side-share-panel, #block-ibtimes-social-social-buttons,
 ico.org.uk###toggle-hiddenpanel-headershare
 ifixsmartphone.com##.project-share-overlay
 ifunny.co##.button_pinterest
+igeeksblog.com##.td-post-sharing
 imdb.com##.icon-link-bar.link-bar
 imgflip.com###fShare
 imgur.com##.share-twttr.item
@@ -861,7 +859,6 @@ salon.com###facebook-icon, #pocket-icon, #social_total, #twitter-icon, .facebook
 sanangelolive.com##.ssc-container
 sandiegoreader.com##.icon16, .object_tools
 sayingimages.com###text-51
-sb2.live##.resp-sharing-button__link
 sba.gov##.blogsShareLink
 sbnation.com##.c-sports-blog-directory__item-social
 sc.gov###pinterestAnchor
@@ -1177,7 +1174,6 @@ weeklystandard.com##.ActionBar-items, .Page-social, .text-tools
 welivesecurity.com##.wlistingsinglesocialmedia
 wellandgood.com##.social-share--circle.post__share
 westernjournal.com###a2apage_dropdown
-westworldwatchers.com###mks_social_widget-2, .gridlove-soc-menu
 wgauradio.com##.story-pg__social-icons-contr
 whatfinger.com##.gridlove-share
 whattoexpect.com##.wte-share
