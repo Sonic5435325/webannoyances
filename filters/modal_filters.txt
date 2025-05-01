@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Modal Overlay Filters
 ! Checksum: FcA8D11noCYWISco64ql7g
-! Last Modified: 2025-04-28 09:00 UTC
+! Last Modified: 2025-05-01 09:12 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for Modal Overlay's - Remove interstitial modal overlay elements - also includes removal of other page covering elements. Cookie/GDPR notices will be removed in Cookie Filters sublist
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -173,6 +173,7 @@ bloomberg.com##body[data-paywall-overlay-status="show"]:style(overflow-x: hidden
 bloombergquint.com###offline-notification, .paywall-meter-module__story-paywall-container__1UgCE
 bloombergquint.com,dnaindia.com###desktopBannerWrapped, #izmiddle-box
 boardingarea.com###ba-flybox
+boingboing.net###modalOverlay
 boingboing.net###modalOverlay
 bookforum.com###EmailRegistrationPopup, #OverlayRegistration
 bose.com##.bottom_banner
@@ -399,6 +400,8 @@ fidelity.com##.info-flyout-wrapper
 filmlifestyle.com##.optin-monster-saas-overlay, .sh-back-to-top
 filmora.wondershare.com###modalLeaveDownload, .modal-backdrop
 filmora.wondershare.com##html,body:style(overflow: auto !important;)
+filmora.wondershare.com###modalLeaveDownload, .modal-backdrop
+filmora.wondershare.com##html,body:style(overflow: auto !important;)
 fiverr.com###js-popup-user, .b-modal
 fivethirtyeight.com###footer-notice
 flair.co###swell-overlay, #swell-popup
@@ -501,6 +504,7 @@ hotukdeals.com##.voteBar
 howardstern.com##.show-banner.notification
 howstuffworks.com###pagination-upper
 howtogeek.com##.email-overlay, .email-overlay555, .overlay-wrapper, .overlay-wrapper555
+howtolucid.com##.spu-bg, .spu-box
 html5up.net###bar
 htpcguides.com##.ginger_banner-wrapper, .ssbp-toggle-close.ssbp-toggle-switch
 huffingtonpost.*,huffpost.com###cambria-callout, #guce-inline-consent-iframe, #subscription-toaster, .image_overlay_icon, .popup-window__modal-body-container, .app-download-interstitial, .newsletter-toaster, .subscription-toaster
@@ -901,6 +905,8 @@ spiceworks.com##.join-login-wrapper, .msp_menu, .sui-site-message-container
 spiegel.de##.sticky-overlay
 spigen.com###ztb-slide-box-widget
 splendidtable.org###cboxContent, #cboxOverlay
+sports.williamhill.com###noticeIframe
+sports.williamhill.com##html,body:style(overflow: auto !important;)
 sports.williamhill.com###noticeIframe
 sports.williamhill.com##html,body:style(overflow: auto !important;)
 sports.yahoo.com##.ys-interstitial
