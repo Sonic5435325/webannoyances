@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Modal Overlay Filters
-! Checksum: D6To63ktQ0mvIC5ks9sHNA
-! Last Modified: 2025-05-05 08:23 UTC
+! Checksum: tV+9jvNe2qPUXKLKfVcBEA
+! Last Modified: 2025-05-26 08:24 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for Modal Overlay's - Remove interstitial modal overlay elements - also includes removal of other page covering elements. Cookie/GDPR notices will be removed in Cookie Filters sublist
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -857,7 +857,6 @@ seatgeek.com##.seatgeek-lightbox-background
 seattletimes.com###container:style(filter: none !important;)
 seattletimes.com##.NewsletterSignupSplash
 sec.gov##.acsModalBackdrop
-securitycheckli.st##.style__ScrollToTop-sc-1z0so4v-7
 seekingalpha.com##.modal:not(.sa-auth), .modal-backdrop
 sephora.com##div[data-comp^="GlobalModalsWrapper"]
 sepio.systems###showOnScrollWrapper
