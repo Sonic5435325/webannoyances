@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Floating Annoyances (CSS Style Modifications & Companion Filters)
-! Checksum: YBtMMrcxSCSjJeYMCTRwWw
-! Last Modified: 2025-06-23 08:28 UTC
+! Checksum: asBV+lOhDLEr8hNcgW05qg
+! Last Modified: 2025-06-30 08:25 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for Floating Annoyances -  Modify site elements using CSS modifications to fix floating items that block screen real estate - Primarily used to "pin-in-place" sticky headers, dickbars, floating headers, floating videos, scrolling headers, scrolling videos, stickynavs and other distracting page elements.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -1520,7 +1520,6 @@ bsky.app##.css-175oi2r.r-pgf20v, .r-196lrry.css-175oi2r:style(position: absolute
 bsky.app##.r-1d5kdc7 > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2):style(position: relative !important; transform: none !important; opacity: 1 !important;)
 bsky.app##.r-1i6wzkk.css-175oi2r
 bsky.app##.r-gtdqiz:style(position: relative !important;)
-bsocialplus.com###SITE_HEADER:style(position: absolute !important;)
 btcd.io##.bcd-head-price, .btc-head:style(position: absolute !important;)
 bubblin.io###toggleable, div > iframe:style(position: absolute !important;)
 bucksfreepress.co.uk###__nq__hh:style(visibility: collapse)
@@ -4262,8 +4261,6 @@ idnes.cz###p-menu:style(position: relative !important;)
 idropnews.com###main-nav-cont:style(position: relative !important; top: 0 !important;)
 idropnews.com###sidebar:style(opacity: 1 !important;)
 idropnews.com,zeit.co##.sticky:style(position: absolute !important;)
-idtbox.com##.topbar-wrap:style(padding-top: 0 !important;)
-idtbox.com##.topbar:style(position: relative !important;)
 idtheftcenter.org##.av-logo-container.container, nav > div > ul > li > a:style(height: 118px !important; line-height: 118px !important;)
 idtheftcenter.org##.logo > [href="https://www.idtheftcenter.org/"], .logo > a > img:style(max-height: 118px !important;)
 idtheftcenter.org,mashed.com###header:style(position: absolute !important; margin-top: 0 !important;)
@@ -7285,8 +7282,6 @@ slack.com##header.headroom:style(position: absolute !important; transform: trans
 slack.help###nav_list, .category_header.header_white.header:style(position: absolute !important;)
 slackhq.com##.is-fixed.c-nav__primary.c-nav:style(position: absolute !important;)
 slamonline.com###DesktopNav:style(position: relative !important; top: 0 !important;)
-slashdigit.com###wpp-8:style(position: static !important; top: 0 !important;)
-slashdigit.com###wpp-8_clone
 slashdot.org###slashboxes:style(position: relative !important;)
 slashdot.org##.slashbar:style(position: absolute !important; top: 0 !important;)
 slashleaks.com###top, .navbar-header:style(position: relative !important; top: 0 !important;)
