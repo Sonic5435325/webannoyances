@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Cookie Filters
-! Checksum: lLNNu0+5t9GzULMOSMKByA
-! Last Modified: 2025-09-08 08:30 UTC
+! Checksum: +6PaFD/Qa7ElPofQlfTI9A
+! Last Modified: 2025-10-20 08:25 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for Cookie Annoyances - Remove Cookie/GDPR Banners, Notices, Overlays & Warnings
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -267,7 +267,6 @@
 /wrapperMessagingWithoutDetection.js$script,domain=the-sun.com|thescottishsun.co.uk|thesun.co.uk|thesun.ie
 1worldonline.com##.js-cookies-popup
 7news.com.au##.ToastNotification.cookie-consent--normal
-8kun.top##div>i>.disclaimer-8kun
 @@||erolnik.gov.pl/content/scripts/cookieconsent.min.js$script,1p
 @@||geolocation.onetrust.com/cookieconsentpub/$script
 @@||lightningmaps.org^*/cookieconsent.$script,stylesheet
