@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Social Filters
-! Checksum: cZ+fk4K1Tb8vWq8Lv9WGCQ
-! Last Modified: 2025-11-17 08:32 UTC
+! Checksum: moMQG/KGM5QUwxDCN39UMw
+! Last Modified: 2026-01-12 08:29 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for social networking & sharing - Remove third party social media share sections, icons & other cosmetic elements.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -612,7 +612,6 @@ masters.com##.controls_share__3uaa7.controls_icon__QUTx0
 matadornetwork.com##.sticky-social-wrapper
 mediaite.com##.c-article-foot__section.c-article-foot__site, .o-share, .o-share-item.share-reddit, .o-share-item.share-twitter, .o-social-item__link, .social
 mediarun.com,nationalfile.com##.jeg_share_top_container
-mediatrackers.org##.toolbar-social
 medicalxpress.com###js-soc-panel, #rank
 medium.com##div[style*="position: absolute; will-change: transform; top: 0px; left: 0px;"]
 megabots.com##.js-active.btn--social-tab
