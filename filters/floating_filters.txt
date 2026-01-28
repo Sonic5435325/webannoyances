@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Floating Annoyances (CSS Style Modifications & Companion Filters)
-! Checksum: zf4lWHu3dCtOxcoNQz6xMQ
-! Last Modified: 2026-01-19 08:37 UTC
+! Checksum: SvppEgdREzURK07heavDUA
+! Last Modified: 2026-01-28 14:44 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for Floating Annoyances -  Modify site elements using CSS modifications to fix floating items that block screen real estate - Primarily used to "pin-in-place" sticky headers, dickbars, floating headers, floating videos, scrolling headers, scrolling videos, stickynavs and other distracting page elements.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -4327,7 +4327,6 @@ huntcraftknives.com##.shopify-section-header-sticky:style(position: relative !im
 huntcraftknives.com##.sticky-cart-button:style(position: relative !important; animation: none !important;)
 huntcraftknives.com##.utility-bar
 hybridcars.com###headerWP:style(position: absolute !important; top: -90px !important;)
-hybriders.com##.dark.top-bar
 i24news.tv##.header_info_title
 iastate.edu##.affix.navbar-menu-affix.navbar-caps.no-border.navbar-static-top.navbar-default.navbar-menu.navbar:style(position: relative !important;)
 ibm.com##.masthead c4d-masthead:style(position: absolute !important; inset-block-start: 0 !important;)
