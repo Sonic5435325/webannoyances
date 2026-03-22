@@ -3601,7 +3601,7 @@ foxsportsgo.com##.fsg-header:style(position: absolute !important;)
 framablog.org,hub.packtpub.com###wtr-progress
 framablog.org###actionButtons:style(position: absolute !important; top: auto !important;)
 framablog.org###fnav:style(position: absolute !important;)
-france24.com,rfi.fr##.o-bottom-bar, .o-header, .o-tag-list-wrapper:style(position: absolute !important;)
+france24.com,rfi.fr##.o-header__inner, .o-tag-list-wrapper:style(position: absolute !important;)
 franchisehelp.com##.status-non-sponsor.franchise-cta.floating-cta
 fratellirossetti.com###skywalker_header_multiline:style(position: absolute !important;)
 fredhaasnissan.com##.di-stacks--bottom, .di-stacks--top:style(position: relative !important;)
@@ -6948,7 +6948,6 @@ revolvermag.com##.header-inner:style(position: relative !important;)
 revolvermag.com##.is_stuck.r-float-content.float-content:style(position: absolute !important; top: 0 !important;)
 rewire.news##.snap.brand > .wrap:style(position: relative !important;)
 rferl.org##.sticky-btn.btn--news:style(position: relative !important; top: 0 !important; left: 0 !important;)
-rfi.fr##.o-site-nav-wrapper:style(position: absolute !important;)
 rhinosecuritylabs.com##.header-wrapper:style(position: absolute !important; top: 0 !important;)
 rightwingnews.com##.subset:style(position: relative !important; top: 0 !important;)
 ripoffreport.com###header-wrap:style(position: relative !important;)
@@ -8153,6 +8152,7 @@ theflavorbender.com##.menu-toggle:style(position: relative !important; top: 0 !i
 thefloorpro.com##.fixed .navFloatwrapper:style(position: absolute !important;)
 thefly.com###site_header, #site_header_nav:style(position: relative !important; top: 0 !important;)
 thefp.com##.container-SgmYZ_.pc-flexDirection-row:style(position: absolute !important; top: 0 !important;)
+thefp.com##[class*="container-"][class*="open-"][style="background-color: white;"], .undefined[class^="container-"]
 thefreedictionary.com###fixedBlock
 thegamesdb.net###tinyHeader:style(position: absolute !important;)
 thegatewaypundit.com##.fixed.fixed-widgets:style(position: static !important;)
