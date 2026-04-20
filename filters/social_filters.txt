@@ -1,7 +1,7 @@
 ! Title: Web Annoyances Ultralist - Social Filters
-! Checksum: 4eDp9UnqoYWTZD86FxrtAg
-! Last modified: 2026-03-09 08:48 UTC
-! Version: 202603090848
+! Checksum: E_aIIHr8qc_zpt4z_0oQOg
+! Last modified: 2026-04-20 09:57 UTC
+! Version: 202604200957
 ! Last Modified: 2026-02-09 08:54 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for social networking & sharing - Remove third party social media share sections, icons & other cosmetic elements.
@@ -75,7 +75,6 @@ aljazeera.com###article-top-share-icon
 allmodern.com,birchlane.com,jossandmain.com,wayfair.com##li.CommunityBlock-icon
 allrecipes.com###shareRecipe, .docked-sharebar, .review-share-toggle
 alphr.com###block-menu-menu-header-social
-alternative-science.com##.bunchy-icon-follow, .entry-shares
 alternet.org###like_alternet_on_fb
 amazingribs.com###arsocial, #sfsi_plus_floater
 amazon.*###tell-a-friend-byline, #tellAFriendBox_feature_div, #tellafriendAUI, .ryp__share__icon-facebook
@@ -861,7 +860,6 @@ scribd.com###social_proof_root, .auto__doc_page_shared_flash_container, .share_d
 searchenginejournal.com##.sharebtn.sh-vert
 searchengineland.com###bylineShare
 seattletimes.com##.facebook-modal
-secondnexus.com###sb_super_bar
 securelist.com##.widget-pusher-wrap
 securitiesanalytics.com##.show.tc-btt-wrapper
 securityintelligence.com##.single__social-vertical
