@@ -1,7 +1,7 @@
 ! Title: Web Annoyances Ultralist - Modal Overlay Filters
-! Checksum: HbcWJH3KQRi3CXlVI3-JaA
-! Last modified: 2026-04-03 20:20 UTC
-! Version: 202603020847
+! Checksum: qVwWp9nrT3PILcbdqnk0Ng
+! Last modified: 2026-05-04 10:09 UTC
+! Version: 202605041009
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for Modal Overlay's - Remove interstitial modal overlay elements - also includes removal of other page covering elements. Cookie/GDPR notices will be removed in Cookie Filters sublist
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -921,7 +921,6 @@ themarysue.com###post-nav, .c-article-nav-arrows
 themoscowtimes.com##.contribute-bar
 thenationalpulse.com##.afc_popup
 thenevadaindependent.com##.kYqsUP
-thenewrevere.com##.popupflyin-clicks-area
 theplayerstribune.com###sailthru-overlay-container
 thepostmillennial.com###popup-donation, .v-modal
 thepostmillennial.com##body.el-popup-parent--hidden:style(overflow: auto !important; padding-right: 0 !important;)
