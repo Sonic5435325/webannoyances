@@ -1,7 +1,7 @@
 ! Title: Web Annoyances Ultralist Main
-! Checksum: VeTF1kkiSqzzowMaGD3sUQ
-! Last modified: 2026-02-23 08:52 UTC
-! Version: 202602230852
+! Checksum: 5L4MdUQ3ZnQQnFCHpO5yPw
+! Last modified: 2026-06-08 12:30 UTC
+! Version: 202606081230
 ! Last Modified: 2026-01-12 08:56 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Block annoying web elements and reclaim lost screen real estate.
@@ -97,7 +97,6 @@ billboard.com##.search-toggle.open-search
 binance.com##.iumzRr
 binance.com##.show.ng-scope.fixed.markets-table
 biobiochile.cl##.barraDebajo.row
-bizarrepedia.com###pulse_ring
 bizjournals.com###boundary-2__sticker-0 > .sm-only__expander.xs-only__expander
 bizjournals.com###tour-prompt.prompt.prompt--full-width
 bizjournals.com##.clearfix.infinite-links-chunk
@@ -550,7 +549,6 @@ korg.com###contents_info
 korg.com###info_container
 kottke.org,yp.sg##.post-sidebar
 kucoin.com##.headroom--scrolled.headroom--unpinned.headroom
-l2inc.com##.js-sticky-nav.clone
 labradortraininghq.com###navigation
 lacrosse.com,syncfusion.com###feedbackButton
 lacrossemonkey.com##.navbar-fixed-bottom
@@ -774,7 +772,6 @@ openstreetmap.org,snapzu.com##.welcome
 oracle.com##.cw51v0.cw51
 origins.com##.sticky-chat
 orlandoweekly.com###FooterboardMobile
-otakustream.tv##div.widget-home-block:nth-of-type(1)
 outsideonline.com##.nudger__inner
 owlcation.com###stickyfooterad
 oxforddictionaries.com##.active.transition.shortHeader
