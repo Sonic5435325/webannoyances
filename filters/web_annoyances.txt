@@ -1,7 +1,7 @@
 ! Title: Web Annoyances Ultralist Main
-! Checksum: tEdboB-SBrFy9EnDLeLucw
-! Last modified: 2026-07-06 12:08 UTC
-! Version: 202607061208
+! Checksum: KKgLCosi5lGjgOwphnT_Wg
+! Last modified: 2026-10-12 17:17 UTC
+! Version: 202610121717
 ! Last Modified: 2026-01-12 08:56 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Block annoying web elements and reclaim lost screen real estate.
@@ -1100,8 +1100,6 @@ trumphotels.com##.full.bookingconsole
 trustedreviews.com###_evh-button
 trustedreviews.com###_evh-ric
 truththeory.com###t1
-tttthreads.com##.comments-sm.comments.d-sm-block.col-sm-1
-tttthreads.com##.top-right-action
 tumblr.com##.flattr
 tumblr.com##.windowed.windowed-slide.register_prompt
 upi.com###nl_su_st
