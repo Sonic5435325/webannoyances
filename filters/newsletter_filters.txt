@@ -1,7 +1,7 @@
 ! Title: Web Annoyances Ultralist - Newsletter Subscription Filters
-! Checksum: s-NmQJtSnghyeYGHNk_Z1A
-! Last modified: 2026-06-08 12:34 UTC
-! Version: 202606081234
+! Checksum: HCGHNjrl2HGnVuvqx0ok9A
+! Last modified: 2026-11-16 17:44 UTC
+! Version: 202611161744
 ! Last Modified: 2026-01-19 08:37 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for newsletter annoyances - Remove newsletter & other subscription cosmetic elements.
@@ -416,7 +416,6 @@ nationalenquirer.com###postup-subscribe-id-2
 nationalfile.com##.ctct-popup-form
 nationalgeographic.com##.gf2_newsletter-form
 nationalgeographic.org##.fk-newsletter
-nationalgeographiclodges.com##.ignUpNewsletter
 nationalobserver.com###inline-newsletter-form
 nationalreview.com###newsmax-signup-block, .aside-newsletter, .inline-newsletter-subscribe
 nature.com##.c-site-messages, .nature-briefing
